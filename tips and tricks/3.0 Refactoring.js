@@ -1,0 +1,10 @@
+/*
+REFACTORING
+
+20 MAX lines per FUNCTION 
+
+FILES 
+
+200 LINES MAXIMUM
+*/ 
+

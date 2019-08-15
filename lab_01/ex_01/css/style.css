@@ -1,0 +1,29 @@
+body {
+
+  text-align: center;
+  background-color: #990000;
+  color: #ffffff;
+
+}
+
+h1 {
+
+	font-size: 5em;
+
+}
+
+
+
+/*
+
+Color
+Primary Color:
+FF0000	CC3333	990000	FF3333	FF6666
+Secondary Color A:
+FF6600	CC6633	993300	FF9933	FF9966
+Secondary Color B:
+CC0066	993366	990033	FF3399	FF6699
+Complementary Color:
+00CC00	339933	009900	33FF33	66FF66
+
+*/ 

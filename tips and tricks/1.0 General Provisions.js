@@ -1,13 +1,11 @@
 /*
 
-HOW NOT TO SUCK AT JAVASCRIPT
-DJCLDS, 2019
 
 
 REFERENCES: 
 
   1. 'How not to suck at Javascript', https://medium.com/better-programming/js-reliable-fdea261012ee
-
+  2. THREE.JS Development guidlines
 
 1.0 General Provisions
 
